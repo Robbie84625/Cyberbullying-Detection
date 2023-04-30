@@ -1,2 +1,2 @@
-# Cyberbullying-Detection
 # Performance Evaluation of Ensemble Learning on Chinese Cyberbullying Detection
+針對Youtube與PTT資料數據處理，以機器學習與特徵工程的方法進行資料處理，以十折交叉驗證的方法進行網路霸凌偵測效能檢驗
